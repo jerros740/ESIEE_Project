@@ -1,0 +1,1 @@
+Il faut ouvrir la fenêtre connexion en premier. ( connexion.py est le fichier principal )

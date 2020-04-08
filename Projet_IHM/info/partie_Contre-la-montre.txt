@@ -1,0 +1,7 @@
+{"user" : "ra", "MPM" : 46, "PRE" : 90.78}
+{"user" : "ra", "MPM" : 37, "PRE" : 91.46}
+{"user" : "ra", "MPM" : 39, "PRE" : 94.18}
+{"user" : "ra", "MPM" : 7, "PRE" : 78.05}
+{"user" : "ra", "MPM" : 40, "PRE" : 96.46}
+{"user" : "ra", "MPM" : 40, "PRE" : 91.10}
+{"user" : "ra", "MPM" : 44, "PRE" : 93.53}

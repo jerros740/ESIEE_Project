@@ -1,0 +1,8 @@
+{"user" : "ra", "MPM" : 41, "PRE" : 100.00}
+{"user" : "ra", "MPM" : 38, "PRE" : 100.00}
+{"user" : "ra", "MPM" : 41, "PRE" : 96.72}
+{"user" : "ra", "MPM" : 45, "PRE" : 100.00}
+{"user" : "ra", "MPM" : 27, "PRE" : 100.00}
+{"user" : "ra", "MPM" : 45, "PRE" : 94.23}
+{"user" : "ra", "MPM" : 50, "PRE" : 100.00}
+{"user" : "xx", "MPM" : 37, "PRE" : 92.90}

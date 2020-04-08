@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ @author\ Jeremy\ ROS\r\n\ @version\ 2018\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructeur\r\n
+comment2.params=aString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ V\u00E9rifie\ si\ la\ commande\ est\ valide\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\r\n\ retourne\ les\ string\ des\ commandes\ contenu\ dans\ le\ tableau\ validCommands[]\r\n
+numComments=4

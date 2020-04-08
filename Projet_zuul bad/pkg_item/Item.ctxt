@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ @author\ Jeremy\ ROS\r\n\ @version\ 2018\r\n
+comment1.params=pItemName\ pPoids\ pItemDescription
+comment1.target=Item(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d\u00E9crivant\ le\ nom\ de\ l'item,\ la\ quantit\u00E9\ de\ cet\ item,\ et\ son\ poids\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment2.text=\r\n\ Retourne\ le\ nom\ de\ l'item\r\n
+comment3.params=
+comment3.target=double\ getPoids()
+comment3.text=\r\n\ Retourne\ le\ poid\ de\ l'Item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemDescription()
+comment4.text=\r\n\ Retourne\ la\ description\ de\ l'item\r\n
+numComments=5
