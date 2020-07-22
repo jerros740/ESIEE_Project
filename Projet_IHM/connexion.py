@@ -10,7 +10,7 @@ fenrw = root.winfo_reqwidth()
 fenrh = root.winfo_reqheight()
 sw = root.winfo_screenwidth()
 sh = root.winfo_screenheight()
-root.geometry("+%d+%d" % ((sw-fenrw)/2, (sh-fenrh)/2))
+root.geometry("+%d+%d" % ((sw/2)-(fenrw/2), (sh/2)-(fenrh/2))) #affichage de la fenêtre au milieu de l'écran 
 root.resizable(0,0)
 frame = Frame(root)
 frame2 = Frame(root)

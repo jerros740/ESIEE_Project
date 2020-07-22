@@ -12,13 +12,16 @@ pseudo = sys.argv[1] #arguments d'entrée, d'il n'y a pas de pseudo, on ne peut 
 
 root=Tk()
 root.title("Accueil / Utilisateur : "+str(pseudo))
-fenrw = root.winfo_reqwidth()
-fenrh = root.winfo_reqheight()
-sw = root.winfo_screenwidth()
-sh = root.winfo_screenheight()
-root.geometry("+%d+%d" % ((sw-fenrw)/2, (sh-fenrh)/2)) #affichage de la fenêtre au milieu de l'écran 
+fenrw2 = root.winfo_reqwidth()
+fenrh2 = root.winfo_reqheight()
+sw = root.winfo_screenwidth() # largeur ecran
+sh = root.winfo_screenheight() # hauteur ecran
+
+root.geometry("+%d+%d" % ((sw/2)-(fenrw/2), (sh/2)-(fenrh/2))) #affichage de la fenêtre au milieu de l'écran 
 root.resizable(0,0)
 root.iconbitmap('image/icon_jeu.ico')
+
+
 
 #Variable
     #Arguments
